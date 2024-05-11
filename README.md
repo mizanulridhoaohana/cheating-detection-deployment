@@ -1,5 +1,3 @@
-# cheating-detection-deployment
-
 Dataset Detail
 ==============
 
